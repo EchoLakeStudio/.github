@@ -1,2 +1,2 @@
-# .github
-Main page of EchoLakeStudio
+# EchoLakeStudio
+This is the repository of EchoLake Studio.
